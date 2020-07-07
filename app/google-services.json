@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "182750400854",
+    "firebase_url": "https://tolkienworld-2d931.firebaseio.com",
+    "project_id": "tolkienworld-2d931",
+    "storage_bucket": "tolkienworld-2d931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182750400854:android:282eb7f1098dbc097786f7",
+        "android_client_info": {
+          "package_name": "com.example.tolkiengama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182750400854-rrgtt4pskkgplidpb5i9r7sjtbb4jmm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHv3dCgUH4WOTGdXMz04TdWl8ENMW-m6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182750400854-rrgtt4pskkgplidpb5i9r7sjtbb4jmm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182750400854:android:63a1565219096f917786f7",
+        "android_client_info": {
+          "package_name": "com.example.tolkienworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182750400854-rrgtt4pskkgplidpb5i9r7sjtbb4jmm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHv3dCgUH4WOTGdXMz04TdWl8ENMW-m6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182750400854-rrgtt4pskkgplidpb5i9r7sjtbb4jmm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182750400854:android:8604ad2b02f276e37786f7",
+        "android_client_info": {
+          "package_name": "com.example.tolkienworld3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182750400854-rrgtt4pskkgplidpb5i9r7sjtbb4jmm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHv3dCgUH4WOTGdXMz04TdWl8ENMW-m6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182750400854-rrgtt4pskkgplidpb5i9r7sjtbb4jmm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182750400854:android:cf2afd4c6a45d2977786f7",
+        "android_client_info": {
+          "package_name": "com.example.tolkworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182750400854-rrgtt4pskkgplidpb5i9r7sjtbb4jmm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHv3dCgUH4WOTGdXMz04TdWl8ENMW-m6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182750400854-rrgtt4pskkgplidpb5i9r7sjtbb4jmm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="appTitleSize">45sp</dimen>
+    <dimen name="SubTitle">30sp</dimen>
+    <dimen name="textSize">18sp</dimen>
+    <dimen name="titleSize">22sp</dimen>
+    <dimen name="contentPadding">3dp</dimen>
+    <dimen name="cornerRadius">1dp</dimen>
+    <dimen name="cardElevation">2dp</dimen>
+    <dimen name="imageDimension">100dp</dimen>
+    <dimen name="imageMargin">5dp</dimen>
+    <dimen name="cellTitleMargin">10dp</dimen>
+    <dimen name="sketchSize">300dp</dimen>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    app:contentPadding="@dimen/contentPadding"
+    app:cardCornerRadius="@dimen/cornerRadius"
+    app:cardElevation="@dimen/cardElevation"
+    app:cardUseCompatPadding="true"
+    app:cardBackgroundColor="@color/colorCard">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/colorButton">
+
+        <ImageView
+            android:id="@+id/rImage"
+            android:layout_centerHorizontal="true"
+            android:layout_width="@dimen/sketchSize"
+            android:layout_height="@dimen/sketchSize"
+            android:layout_margin="@dimen/imageMargin"/>
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:textSize="@dimen/titleSize"
+            android:textColor="@color/colorButtonText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/cellTitleMargin"
+            android:layout_marginBottom="@dimen/cellTitleMargin"
+            android:layout_marginEnd="@dimen/cellTitleMargin"
+            android:lineSpacingExtra="@dimen/cellTitleMargin"
+            android:layout_below="@id/rImage"
+            tools:text="Title"/>
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

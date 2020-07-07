@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TolkienWorld</string>
+    <string name="btnAboutText">About</string>
+    <string name="tvAbout">About</string>
+    <string name="tvCharacters">Characters</string>
+    <string name="tvDwarves">Dwarves</string>
+    <string name="tvElves">Elves</string>
+    <string name="tvEnts">Ents</string>
+    <string name="tvLanguages">Languages</string>
+    <string name="tvHobbits">Hobbits</string>
+    <string name="tvMaiar">Maiar</string>
+    <string name="tvMen">Men</string>
+    <string name="tvOrc">Orcs</string>
+    <string name="tvOthers">Others</string>
+    <string name="tvPlaces">Places</string>
+    <string name="btnCharactersText">Characters</string>
+    <string name="btnLanguagesText">Languages</string>
+    <string name="btnPlacesText">Places</string>
+    <string name="btnElvesText">Elves</string>
+    <string name="btnDwarvesText">Dwarves</string>
+    <string name="btnMaiarText">Maiar</string>
+    <string name="btnHobbitsText">Hobbits</string>
+    <string name="btnMenText">Men</string>
+    <string name="btnOrcsText">Orcs</string>
+    <string name="btnEntsText">Ents</string>
+    <string name="btnOthersText">Others</string>
+    <string name="tvSketches">Sketches</string>
+</resources>
